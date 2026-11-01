@@ -1,0 +1,7 @@
+WEB AESTEBAN CARPINTERÍA
+
+index.html   → la web completa, lista para GitHub Pages (sube solo este archivo a la raíz del repo).
+               Lleva incrustadas las imágenes, logos y tipografías; no necesita nada más.
+imagenes/    → copia suelta de las imágenes optimizadas (JPG ≤1536 px, logos reducidos), por si quieres editarlas o reutilizarlas.
+
+Pendiente: teléfono real, email, localidad, [X] años, y conectar el formulario a un servicio de envío (Formspree, etc.).
